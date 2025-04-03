@@ -1,6 +1,6 @@
 # IMAD-5112-ASSIGNMENT1
 this app provieds a meal suggestion based on the time of day, the user needs to add the time of the day in oder to get a meal idea for the day
-this app  consists of a textView2 ( display suggestions) which tells the user what to eat 
+this app  consists of a textView2 ( display suggestions) which tells the user what to eats
 e.g when user types in breakfast a breakfast meal appears 
 when user type lunch ,a cerain meal appears
 when user type dinner ,a certain meal shows up 
